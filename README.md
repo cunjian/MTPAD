@@ -4,14 +4,9 @@ This is the inference code for an automatic iris presentation attack detection (
 
 Some of the detection results have been visualized here. 
 
-<img src="https://github.com/cunjian/MTPAD/blob/master/results/live.png" height="128" width="128">
-<img src="https://github.com/cunjian/MTPAD/blob/master/results/contact.png" height="128" width="128">
+<img src="https://github.com/cunjian/MTPAD/blob/master/results/live.png" height="256" width="256"> <img src="https://github.com/cunjian/MTPAD/blob/master/results/contact.png" height="256" width="256">
+<img src="https://github.com/cunjian/MTPAD/blob/master/results/print.png" height="256" width="256"> <img src="https://github.com/cunjian/MTPAD/blob/master/results/artifical_eye.png" height="256" width="256">
 
-![image](https://github.com/cunjian/MTPAD/blob/master/results/contact.png =250x250)
-
-![image](https://github.com/cunjian/MTPAD/blob/master/results/print.png =250x250)
-
-![image](https://github.com/cunjian/MTPAD/blob/master/results/artifical_eye.png =250x250)
 
 ## Citation
 If you use this code for your research, please cite our papers.
