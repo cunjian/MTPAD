@@ -4,8 +4,8 @@ This is the inference code for an automatic iris presentation attack detection (
 
 Some of the detection results have been visualized here. 
 
-
-![image](https://github.com/cunjian/MTPAD/blob/master/results/live.png =250x250)
+<img src="https://github.com/cunjian/MTPAD/blob/master/results/live.png" height="128" width="128">
+<img src="https://github.com/cunjian/MTPAD/blob/master/results/contact.png" height="128" width="128">
 
 ![image](https://github.com/cunjian/MTPAD/blob/master/results/contact.png =250x250)
 
