@@ -8,6 +8,11 @@ Some of the detection results have been visualized here.
 
 <img src="https://github.com/cunjian/MTPAD/blob/master/results/print.png" height="256" width="256"> <img src="https://github.com/cunjian/MTPAD/blob/master/results/artifical_eye.png" height="256" width="256">
 
+# Model
+
+Download the MTPAD model here. 
+
+https://1drv.ms/u/s!AhFf7JiY9UVbgVkOn6wKJzP0CLst?e=ExN0QK
 
 ## Citation
 If you use this code for your research, please cite our papers.
