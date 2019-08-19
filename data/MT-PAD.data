@@ -1,0 +1,6 @@
+classes=2
+train  = data/MT-PAD/train.txt
+valid  = data/MT-PAD/train.txt
+names  = data/iris_spoof.names
+backup = backup/
+
