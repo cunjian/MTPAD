@@ -5,13 +5,13 @@ This is the inference code for an automatic iris presentation attack detection (
 Some of the detection results have been visualized here. 
 
 
-![alt text](https://github.com/cunjian/MTPAD/blob/master/results/live.png "Logo Title Text 1")
+![image](https://github.com/cunjian/MTPAD/blob/master/results/live.png "Logo Title Text 1")
 
-![alt text](https://github.com/cunjian/MTPAD/blob/master/results/contact.png "Logo Title Text 1")
+![image](https://github.com/cunjian/MTPAD/blob/master/results/contact.png "Logo Title Text 1")
 
-![alt text](https://github.com/cunjian/MTPAD/blob/master/results/print.png "Logo Title Text 1")
+![image](https://github.com/cunjian/MTPAD/blob/master/results/print.png "Logo Title Text 1")
 
-![alt text](https://github.com/cunjian/MTPAD/blob/master/results/artifical_eye.png "Logo Title Text 1")
+![image](https://github.com/cunjian/MTPAD/blob/master/results/artifical_eye.png "Logo Title Text 1")
 
 ## Citation
 If you use this code for your research, please cite our papers.
